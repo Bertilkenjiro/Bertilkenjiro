@@ -1,6 +1,6 @@
 # Bertil Kenjiro
 
-**`Analista e Furuto Engenheiro de Dados`**
+**`Analista e Futuro Engenheiro de Dados`**
 
 Olá, sou o Bertil, um profissional apaixonado por dados e otimização de processos.
 
@@ -77,19 +77,35 @@ Sou movido pela curiosidade e estou sempre em busca de novas formas de transform
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
 />
 
 <br/>
